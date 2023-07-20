@@ -1,0 +1,37 @@
+clear 
+close all
+clc
+
+load PD_data_2023_06_27.mat
+
+data_corr = correlation_OA(right_all, left_all);
+valid_idx = check_valid_OA(right_all, left_all, 0.9);
+prs = prs_all;
+
+for i = 1:size(valid_idx,1)
+    if valid_idx(i) == 0
+        data_corr(i) = NaN;
+    end
+    if isnan(data_corr(i))
+        prs(i) = NaN;
+    end
+end
+
+% figure
+% plot(data_corr);
+% 
+% % figure 
+% % plot(valid_idx);
+% 
+
+figure
+%boxplot(data_corr', prs);
+x = [0 1 3 4 5 6 9 11 12 15];
+boxplot(data_corr', prs, 'positions', x);
+%xticks([0:15])
+(title('90% Validity'))
+
+%masillia = strcmpi(filename_all, 'Masillia');
+
+
+

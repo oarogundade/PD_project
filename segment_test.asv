@@ -1,0 +1,21 @@
+clear 
+clc
+t = 0:0.1:10;
+x_data = sin(5*t);
+fs = 10;
+window_seconds = 1;
+shift_seconds = 1;
+
+g = linelength_OA(x_data,fs);
+y = segmentation_OA(x_data, fs, window_seconds, shift_seconds);
+for i= 1:size(y, 1)
+    y_segment = y(1,:);
+
+
+
+end
+
+
+
+
+

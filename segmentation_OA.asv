@@ -1,0 +1,22 @@
+function [y, t] = segmentation_OA(x_data, fs, window_seconds, shift_seconds)
+
+%series of variables defined: fs = frequency of data collected;
+%frame_duration = desired length of data segemnts in seconds; window =
+% total number of samples per segment shift = how far to the right the
+% next window should start (in samples)
+window_samples = window_seconds*fs; %number of samples (1200)
+shift_samples = shift_seconds*fs; %in seconds
+
+%marking of the start and end (in seconds) of the segments of choice
+v_start = 1:shift_samples:length(x_data) - window_samples;
+v_end = v_start+window_samples-1;
+t = v_end/fs;
+
+%segmentation of data
+for i = 1:length(v_start)
+    start_idx = v_start(i);
+    stop_idx = v_end(i);
+    v_idx = start_idx:stop_idx;
+    y(i,:)=x_data(v_idx);
+end
+end

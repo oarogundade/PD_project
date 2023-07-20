@@ -1,0 +1,43 @@
+﻿Recording,Subject,Date,EEG?,Basline/intoxication/stable,MPTP Dose,PRS
+MPTP_eye_tracking_gaze_test_Juno_2021_12_08_001,Juno,12/8/21,yes,Baseline,,0
+MPTP_eye_tracking_gaze_test_Juno_2021_12_13_001,Juno,12/13/21,yes,Baseline,,0
+MPTP_eye_tracking_gaze_test_Juno_2021_12_20_001,Juno,12/20/21,yes,Baseline,,0
+MPTP_eye_tracking_gaze_test_Juno_2022_01_14_001,Juno,1/14/22,yes,Baseline,,0
+MPTP_eye_tracking_gaze_test_Juno_2022_02_16_001,Juno,2/16/22,no,Baseline,,0
+MPTP_eye_tracking_gaze_test_Juno_2022_03_02_001,Juno,3/2/22,yes,Intoxication,0.3 mg/kg,1
+MPTP_eye_tracking_gaze_test_Juno_2022_03_09_001,Juno,3/9/22,yes,Intoxication,0.4 mg/kg,3
+MPTP_eye_tracking_gaze_test_Juno_2022_03_23_001,Juno,3/23/22,yes,stable,,15
+MPTP_eye_tracking_gaze_test_Juno_2022_03_30_001,Juno,3/30/22,yes,stable,,11
+MPTP_eye_tracking_gaze_test_Juno_2022_04_06_001,Juno,4/6/22,yes,stable,,5
+MPTP_eye_tracking_gaze_test_Juno_2022_04_13_001,Juno,4/13/22,yes,stable,,6
+MPTP_eye_tracking_gaze_test_Juno_2022_04_19_001,Juno,4/19/22,yes,stable,,5
+MPTP_eye_tracking_gaze_test_Juno_2022_04_27_001,Juno,4/27/22,yes,Intoxication,0.4 mg/kg,9
+MPTP_eye_tracking_gaze_test_Juno_2022_05_11_001,Juno,5/11/22,yes,Intoxication,0.5 mg/kg,4
+MPTP_eye_tracking_gaze_test_Juno_2022_05_18_001,Juno,5/18/22,yes,stable,,6
+MPTP_eye_tracking_gaze_test_Juno_2022_05_27_001,Juno,5/27/22,yes,stable,,3
+MPTP_eye_tracking_gaze_test_Juno_2022_06_03_001,Juno,6/3/22,yes,stable,,12
+MPTP_eye_tracking_gaze_test_Juno_2022_06_10_001,Juno,6/10/22,no,stable,,12
+MPTP_eye_tracking_gaze_test_Juno_2022_06_22_001,Juno,6/22/22,yes,stable,,11
+MPTP_eye_tracking_gaze_test_Juno_2022_07_08_001,Juno,7/8/22,yes,medication,,9
+MPTP_eye_tracking_gaze_test_Masillia_2022_09_21_001,Massilia,9/21/22,yes,Baseline,,0
+MPTP_eye_tracking_gaze_test_Masillia_2022_10_05_001,Massilia,10/5/22,no,Baseline,,0
+MPTP_eye_tracking_gaze_test_Masillia_2022_10_26_001,Massilia,10/26/22,no,Baseline,,0
+MPTP_eye_tracking_gaze_test_Masillia_2022_11_09_004,Massilia,11/9/22,no,Baseline,,1
+MPTP_eye_tracking_gaze_test_Masillia_2022_11_17_001,Massilia,11/17/22,no,Intoxication,0.3 mg/kg,0
+MPTP_eye_tracking_gaze_test_Massilia_2022_11_22_001,Massilia,11/22/22,no,Intoxication,0.3 mg/kg,0
+MPTP_eye_tracking_gaze_test_Masillia_2022_12_01_001,Massilia,12/1/22,no,stable,,0
+MPTP_eye_tracking_gaze_test_Massilia_2022_12_07_001,Massilia,12/7/22,no,Intoxication,0.5 mg/kg,0
+MPTP_eye_tracking_gaze_test_Masillia_2022_12_13_002,Massilia,12/13/22,no,Intoxication,0.5 mg/kg,3
+MPTP_eye_tracking_gaze_test_Oscar_2022_09_30_001,Oscar,9/30/22,no,Baseline,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_10_03_001,Oscar,10/3/22,no,Baseline,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_10_07_001,Oscar,10/7/22,no,Baseline,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_10_12_001,Oscar,10/12/22,no,Baseline,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_10_17_001,Oscar,10/17/22,no,Baseline,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_10_26_001,Oscar,10/26/22,no,Intoxication,0.4 mg/kg,
+MPTP_eye_tracking_gaze_test_Oscar_2022_11_02_001,Oscar,11/2/22,no,Intoxication,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_11_09_001,Oscar,11/9/22,no,Intoxication,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_11_17_001,Oscar,11/17/22,no,Intoxication,0.3 mg/kg,
+MPTP_eye_tracking_gaze_test_Oscar_2022_11_22_001,Oscar,11/22/22,no,,,
+MPTP_eye_tracking_gaze_test_Oscar_2022_12_07_001,Oscar,12/7/22,no,Intoxication,0.5 mg/kg,
+MPTP_eye_tracking_gaze_test_Oscar_2022_12_14_001,Oscar,12/14/22,no,Intoxication,0.5 mg/kg,
+MPTP_eye_tracking_gaze_test_Oscar_2023_02_10_001,Oscar,2/10/23,no,Stable,,
